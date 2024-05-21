@@ -1,0 +1,8 @@
+.active {
+    color: #c9f31d !important;
+    text-decoration: underline;
+}
+.livewire-loading {
+    background-color: #c9f31d;
+    /* Add any additional styles you want to customize the loading indicator */
+}
